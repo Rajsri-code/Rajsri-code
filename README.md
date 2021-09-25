@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajsri-code
 - 👀 I’m interested in ... Mobile automation, 
 - 🌱 I’m currently learning ... Web API automation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Updated from GitHUB
 - 📫 How to reach me ...
 
 <!---
